@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 14th, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Steven Ritter)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Using html and javaScript to create an Expense Calculator application.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://rittersteven.github.io/lesson4_javascript1/Lesson4_ExpenseCalculator/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. "Markdown" is a way to uniquely format and style text around GitHub. Special characters like # are used to indicate the formatting.
+2. HTML is useful to create static webpages and enables the user a lot of tools for presentation, layout, design, etc., JavaScript however allows for interactivity with the client.
+3. Java and JavaScript are two different programming languages and not to be confused with one another. JavaScript is used for programs that are interpreted in the client-side browser. Java, however, is used in stand alone applications.
 
